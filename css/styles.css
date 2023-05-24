@@ -1,0 +1,14 @@
+div {
+    background-color: black;
+    color: blueviolet;
+    width: 50%;
+}
+
+.emo {
+    font-style: italic;
+}
+
+.sad {
+    background-color: azure;
+    color: brown;
+}
